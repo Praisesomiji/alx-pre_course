@@ -1,1 +1,1 @@
-Complete task 1 in my git tes my alx git test
+Complete task 1 of my alx git test
